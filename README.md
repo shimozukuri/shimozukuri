@@ -7,10 +7,12 @@
 </div>
 
 ## About me
-- I'm curently learning **Java**
-- 
-- 
-- 
+- 💻 Learning **Java** since 2018, specializing in backend development
+- 🔧 Experienced with Spring Boot, Hibernate, and designing RESTful APIs
+- 🗄️ Skilled in SQL databases like MySQL and PostgreSQL
+- ☁️ Familiar with cloud technologies like Minio S3 and containerization tools like Docker
+- 📚 Always exploring new technologies and best practices
+- 🌱 Open to interesting growth opportunities and collaboration on impactful projects
 
 ## Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" heignt="40"/>&nbsp;
