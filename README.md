@@ -7,7 +7,7 @@
 </div>
 
 ## About me
-- 💻 Learning **Java** since 2018, specializing in backend development
+- 💻 Learning **Java** since 2020, specializing in backend development
 - 🔧 Experienced with Spring Boot, Hibernate, and designing RESTful APIs
 - 🗄️ Skilled in SQL databases like MySQL and PostgreSQL
 - ☁️ Familiar with cloud technologies like Minio S3 and containerization tools like Docker
